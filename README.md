@@ -1,5 +1,5 @@
-# songchen.github.io
-Song Chen's homepage
+# favourhong.github.io
+Hong Chu's homepage
 
 [![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/yaoyao-liu.github.io/blob/main/LICENSE)
 
