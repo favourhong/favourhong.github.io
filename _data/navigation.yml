@@ -1,0 +1,25 @@
+main:
+
+  - title: "Contact"
+    url: ./#contact 
+    right: true 
+
+  - title: "Conferences & Events"
+    url: ./#conferences
+
+  - title: "Projects"
+    url: ./#projects
+
+  - title: "Publications & WP"
+    url: ./#publications
+
+
+
+  # - title: "News"
+  #   url: ./#news
+
+  - title: "Blogs"
+    url: ./blog/
+
+  - title: "Bio"
+    url: ./#about-me

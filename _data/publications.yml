@@ -1,0 +1,28 @@
+main:
+
+  - title: 企业涉房投资与员工薪酬差距
+    authors: 谢申祥, 初虹, 刘金东
+    conference: 南开经济研究
+    pdf: ./assets/files/谢申祥2022.pdf
+    page: https://kns.cnki.net/kcms2/article/abstract?v=xzY5Ip_ThcnD4SsoEjDevJvjV5J0zxmhid0zDB0PRSDjp837SVCcWWYG6dLcEi8abFwT50FgE-taHVCP_R6zyCk7G2-xnV-9SBzKRcR-4y40-J7h5QWk0sCrgJzShaP7X8JGGc7Tsnc=&uniplatform=NZKPT
+    bibtex: 
+    image: 
+    notes: Published
+
+  - title: 信贷资金配置的所有制差异——基于抵押品市场价值视角的检验
+    authors: 郭健, 刘金东, 初虹, 谷兰娟
+    conference: 财贸经济
+    pdf: ./assets/files/郭健2023.pdf
+    page: https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTODAY&filename=CMJJ202304004&v=
+    image: ./assets/files/郭健2023.png
+    notes: Published
+
+  - title: The Heterogeneous Effects of Urban Form on CO2 Emissions:An Empirical Analysis of 255 Cities in China
+    authors: Chengye Jia, Shuang Feng, Hong Chu, Weige Huang 
+    conference: Land
+    pdf: ./assets/files/Jia2023.pdf
+    page: https://www.mdpi.com/2073-445X/12/5/981
+    image: ./assets/files/Jia2023.png
+    notes: Published
+
+  
