@@ -36,7 +36,6 @@
       {% endif %}
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
-      <!-- <strong style="color:#e74d3c">{{ link.notes }}</strong> -->
       {% endif %}
       {% if link.others %} 
       {{ link.others }}
