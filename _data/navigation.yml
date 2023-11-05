@@ -5,7 +5,7 @@ main:
     right: true 
 
   - title: "Conferences & Events"
-    url: ./#conferences
+    url: ./#talks
 
   - title: "Projects"
     url: ./#projects
@@ -19,7 +19,7 @@ main:
   #   url: ./#news
 
   - title: "Blogs"
-    url: ./blog/
+    url: ./#blogs
 
   - title: "Bio"
     url: ./#about-me
