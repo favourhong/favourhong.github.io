@@ -17,7 +17,8 @@
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="author">{{ link.abstract }}</div>
-      <div class="periodical"><em>{{ link.project }}</em>
+      <!-- <div class="periodical"><em>{{ link.project }}</em> -->
+      <div class="periodical">{{ link.project }}
       </div>
     <div class="links">
       {% if link.pdf %} 
@@ -36,7 +37,8 @@
       <a href="{{ link.web }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       {% endif %}
       {% if link.notes %}
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
+      <!-- <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong> -->
+      <strong style="color:#e74d3c">{{ link.notes }}</strong>
       {% endif %}
       {% if link.others %} 
       {{ link.others }}

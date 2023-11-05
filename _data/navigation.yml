@@ -4,7 +4,7 @@ main:
     url: ./#contact 
     right: true 
 
-  - title: "Talks"
+  - title: "Talks & TA"
     url: ./#talks
 
   - title: "Publications & WP"
