@@ -12,7 +12,6 @@ layout: homepage
 - 研究方向：财税理论与政策、收入分配等
 
 {% include_relative _includes/blogs.md %}
-{% include_relative _includes/talks.md %}
 
 {% include_relative _includes/projects.md %}
 
@@ -20,6 +19,7 @@ layout: homepage
 
 {% include_relative _includes/wp.md %}
 
+{% include_relative _includes/talks.md %}
 
 {% include_relative _includes/contact.md %}
 
