@@ -7,12 +7,9 @@ main:
 
   - title: "Blogs"
     url: ./#blogs
-    
+
   - title: "Projects"
     url: ./#projects
-
-  # - title: "News"
-  #   url: ./#news
 
 
   - title: "Conferences"
