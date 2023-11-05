@@ -23,7 +23,7 @@
 
 
 
-<li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
+<li> <a href="javascript:toggle_vis('newsmore')">了解更多 >>></a> </li>
 <div id="newsmore" style="display:none">
 
 
