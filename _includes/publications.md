@@ -71,28 +71,3 @@
 </ol>
 </div>
 
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/files/Jia2023.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">Land</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="./assets/files/Jia2023.pdf">The Heterogeneous Effects of Urban Form on CO2 Emissions:An Empirical Analysis of 255 Cities in China</a></div>
-      <div class="author">Chengye Jia, Shuang Feng, Hong Chu, Weige Huang </div>
-      <div class="periodical"><em>Land</em></div>
-    <div class="links">
-      <a href="./assets/files/Jia2023.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <!-- <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
-      <a href="https://www.mdpi.com/2073-445X/12/5/981" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <!-- <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
-    <strong><i style="color:#e74d3c">Published</i></strong>
-  </div>
-  </div>
-</div>
-</li>
-
-</ol>
-</div>
-
