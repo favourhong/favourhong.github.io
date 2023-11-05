@@ -1,4 +1,4 @@
-<!-- <h1 id="blogs"></h1>
+<h1 id="blogs"></h1>
 
 <h2 style="margin: 30px 0px 10px;">Blogs</h2>
 
@@ -33,4 +33,4 @@
 <li><strong>[软件工具] </strong><a href="https://mp.weixin.qq.com/s/ESc2ZfuDoagtANSxb_fFHA">不了解 Linux 系统？先从 Deepin 开始吧</a></li>
 
 </div>
-</ul> -->
+</ul>
