@@ -4,22 +4,21 @@ main:
     url: ./#contact 
     right: true 
 
-  - title: "Conferences & Events"
-    url: ./#talks
 
   - title: "Projects"
     url: ./#projects
-
-  - title: "Publications & WP"
-    url: ./#publications
-
-
 
   # - title: "News"
   #   url: ./#news
 
   - title: "Blogs"
     url: ./#blogs
+
+  - title: "Conferences"
+    url: ./#talks
+
+  - title: "Publications & WP"
+    url: ./#publications
 
   - title: "Bio"
     url: ./#about-me
