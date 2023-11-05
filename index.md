@@ -15,8 +15,6 @@ layout: homepage
 
 {% include_relative _includes/projects.md %}
 
-{% include_relative _includes/publications.md %}
-
 {% include_relative _includes/wp.md %}
 
 {% include_relative _includes/talks.md %}
