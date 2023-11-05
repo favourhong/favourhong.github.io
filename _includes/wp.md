@@ -1,11 +1,23 @@
-<h1 id="WP"></h1>
+<!-- <h1 id="WP"></h1>
 
-<h3 style="margin: 60px 0px 10px;">Working Papers</h3>
+<h3 style="margin: 60px 0px 10px;">Working Papers</h3> -->
 
-<!-- <h4 style="margin:0 10px 0;"></h4> -->
+
+<h4 style="margin:0 10px 0;">地方公共债务与企业不动产投资：效应与机制</h4>
 <ul style="margin:0 0 5px;">
-  <li><a href=""><autocolor>地方公共债务</autocolor></a></li>
-  
+  <li>谢申祥, 刘金东, 初虹 《经济研究》R&R</li>
+</ul>
+
+
+<h4 style="margin:0 10px 0;">数字基础设施建设的均等化与资本化效应——来自国家智慧城市试点的证据</h4>
+<ul style="margin:0 0 5px;">
+  <li>刘金东, 初虹, 李启航 《南开经济研究》二审</li>
+</ul>
+
+
+<h4 style="margin:0 10px 0;">数字基础设施建设如何影响迁移意愿——基于租购同权的视角</h4>
+<ul style="margin:0 0 5px;">
+  <li>刘金东, 陶然, 初虹 《数量经济技术经济研究》初审</li>
 </ul>
 
 <!-- <h4 style="margin:0 10px 0;">Organization Committee</h4>
