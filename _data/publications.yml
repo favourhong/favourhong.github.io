@@ -19,14 +19,14 @@ main:
     image: ./assets/files/郭健2023.png
     notes: Published
 
-  - title: The Heterogeneous Effects of Urban Form on CO2 Emissions:An Empirical Analysis of 255 Cities in China
-    authors: Chengye Jia, Shuang Feng, Hong Chu, Weige Huang 
-    conference_short: Land
-    conference: Land
-    pdf: ./assets/files/Jia2023.pdf
-    page: https://www.mdpi.com/2073-445X/12/5/981
-    image: ./assets/files/Jia2023.png
-    notes: Published
+  # - title: The Heterogeneous Effects of Urban Form on CO2 Emissions:An Empirical Analysis of 255 Cities in China
+  #   authors: Chengye Jia, Shuang Feng, Hong Chu, Weige Huang 
+  #   conference_short: Land
+  #   conference: Land
+  #   pdf: ./assets/files/Jia2023.pdf
+  #   page: https://www.mdpi.com/2073-445X/12/5/981
+  #   image: ./assets/files/Jia2023.png
+  #   notes: Published
 
   # - title:  地方公共债务与企业不动产投资：效应与机制
   #   authors: 谢申祥, 刘金东, 初虹
