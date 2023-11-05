@@ -5,7 +5,7 @@
 
 <h4 style="margin:0 10px 0;">《数字基础设施建设的均等化与资本化效应——来自国家智慧城市试点的证据》</h4>
 
-<ul style="margin:0 0 5px;">
+<ul style="margin:0 0 0px;">
   <li><a href="..."><autocolor>[2021年11月 线上] 第七届中国财政学论坛</autocolor></a></li>
   <li><a href="..."><autocolor>[2021年11月 线上] 数字经济、人工智能与经济高质量发展学术研讨会</autocolor></a></li>
   <li><a href="..."><autocolor>[2021年12月 线上] 第一届「财经中国」学术峰会青年论坛</autocolor></a></li>
