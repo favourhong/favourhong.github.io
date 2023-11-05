@@ -4,12 +4,6 @@
 
 <ul>
 
-<!-- <li>
-    <strong>[OCT. 2023]</strong> 
-    The Tech Blog <span style="color:#e74d3c"><a href="https://songchen.science/blog/">"The Hitchhiker's Guide to Galaxy"</a></span> has now integrated an <span style="color:#e74d3c"><a href="https://icloud.songchen.science">onedrive file list program</a></span> implemented by calling API.
-</li> -->
-
-<!-- <li><strong>[JUN. 2022]</strong> Secondment at the  <a href="https://www.aalto.fi/en/department-of-applied-physics">department Applied Physics of Aalto University</a>, in collarboartion with professor <span style="color:#e74d3c"><a href="https://www.aalto.fi/en/people/sebastiaan-van-dijken">Sebastiaan van Dijken.</a></span></li> -->
 
 <li><strong>[Stata 数据清洗] </strong><a href="https://mp.weixin.qq.com/s/D0cYVPJJsNiu61GcYwV6cg">经管数据清洗与 Stata 实战：三大地级市数据库和 CSMAR 上市公司数据</a>、<a href="https://www.lianxh.cn/details/889.html">清洗中国城市建设统计年鉴</a>、<a href="https://www.lianxh.cn/details/923.html">一文搞定 CEIC 数据库</a></li>
 
