@@ -4,19 +4,17 @@ main:
     url: ./#contact 
     right: true 
 
-
-  - title: "Blogs"
-    url: ./#blogs
-
-  - title: "Projects"
-    url: ./#projects
-
-
   - title: "Conferences"
     url: ./#talks
 
   - title: "Publications & WP"
     url: ./#publications
+
+  - title: "Projects"
+    url: ./#projects
+
+  - title: "Blogs"
+    url: ./#blogs
 
   - title: "Bio"
     url: ./#about-me
