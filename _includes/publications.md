@@ -1,6 +1,8 @@
 <h1 id="publications"></h1>
 
-<h2 style="margin: 30px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=sf-0AGoAAAAJ&hl=de" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://www.researchgate.net/profile/Song-Chen-60" target="_blank" style="font-size:15px;">ResearchGate</a><temp style="font-size:15px;">]</temp></h2>
+<!-- <h2 style="margin: 30px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=sf-0AGoAAAAJ&hl=de" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://www.researchgate.net/profile/Song-Chen-60" target="_blank" style="font-size:15px;">ResearchGate</a><temp style="font-size:15px;">]</temp></h2> -->
+
+<h2 style="margin: 30px 0px -15px;">Publications</h2>
 
 
 <div class="publications">
@@ -33,7 +35,8 @@
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       {% endif %}
       {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
+      <!-- <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong> -->
+      <strong style="color:#e74d3c">{{ link.notes }}</strong>
       {% endif %}
       {% if link.others %} 
       {{ link.others }}
