@@ -5,14 +5,15 @@ main:
     right: true 
 
 
+  - title: "Blogs"
+    url: ./#blogs
+    
   - title: "Projects"
     url: ./#projects
 
   # - title: "News"
   #   url: ./#news
 
-  - title: "Blogs"
-    url: ./#blogs
 
   - title: "Conferences"
     url: ./#talks
