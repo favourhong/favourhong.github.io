@@ -3,24 +3,24 @@ main:
   - title: Markdown 和 Zotero 的推介与应用实践
     authors: 
     conference_short: Markdown & Zotero
-    conference: 2022年1月
-    abstract: 2022年&ensp;1月：山东财经大学 YEP 团队部分成员（*30+*）<br>2022年4月：山东财经大学龙山荣誉学院 100 余名本科生
+    conference: 
+    abstract: 2022年1月：山东财经大学 YEP 团队部分成员（<i>30人+<i>）<br>2022年4月：山东财经大学龙山荣誉学院本科生（<i>100人+</i>）<br><strong style="color:#e74d3c; border:1px solid #757575; padding: 3px;font-size: 0.9rem; margin-right: 5px; border-radius:4px; ">线上</strong>
     pdf: ./assets/files/初虹_202201_Markdown_Zotero.pdf
     web: 
     image: ./assets/files/Markdown&Zotero.gif
     notes: 
 
-  - title: 山东财经大学财政税务学院 2022 年本硕衔接
-    authors: 20余名本硕衔接生
+  - title: 2022 年师门内部本硕衔接培训
+    authors: 
     conference_short: 
-    conference: 2022年6月 - 2022年7月
-    abstract: Stata 基本操作（*2022.05.21*）、常见经管微观数据库与微观数据库清洗（<i>2023.06.26</i>）、动态面板模型与广义矩估计（2022.07.19）、潜在结果框架与双重差分法（2022.07.30）
+    conference: 2022年5月 - 2022年7月
+    abstract: 2022年5月21日：Stata 基本操作<br>2022年6月26日：常见经管微观数据库与微观数据库清洗<br>2022年7月19日：动态面板模型与广义矩估计<br>2022年7月30日：潜在结果框架与双重差分法 <br><strong style="color:#e74d3c; border:1px solid #757575; padding: 3px;font-size: 0.9rem; margin-right: 5px; border-radius:4px; ">线下</strong>
     pdf: 
     web: 
-    image: ./assets/files/
-    notes: 
+    image: ./assets/files/2022年本硕衔接.png
+    notes: 20余名本硕衔接生
 
-  - title: 
+  - title: 2023年 师门内部在校生培训
     authors: 
     conference_short: 
     conference: 
@@ -29,3 +29,14 @@ main:
     web: 
     image: ./assets/files/
     notes: 
+
+  - title: 2023 年师门内部本硕衔接培训
+    authors: 
+    conference_short: 
+    conference: 
+    abstract: 
+    pdf: ./assets/files/
+    web: 
+    image: ./assets/files/
+    notes: 
+
