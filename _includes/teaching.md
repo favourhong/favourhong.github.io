@@ -17,7 +17,7 @@
       <div class="title"><a href="{{ link.web }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="author">{{ link.abstract }}</div>
-      <div class="periodical">{{ link.conference }}
+      <div class="periodical" style="text-align: justify;">{{ link.conference }}
       </div>
     <div class="links">
       {% if link.pdf %} 
