@@ -15,32 +15,3 @@
   <li style="margin:0 0 5px; margin-left: -10px"><strong style="color:#e74d3c; border:1px solid #757575; padding: 3px;font-size: 0.9rem; margin-right: 5px; border-radius:4px; ">线上</strong><strong>[2022年&nbsp;4月] </strong>第八届香樟经济学年会 </li>
 </ul>
 
-
-<h2 style="margin: 50px 0px 10px;">Teaching</h2>
-
-
-
-
-
-<h4 style="margin:0 10px 0;">2023年2月 - 2023年3月</h4>
-<ul style="margin:0 10px 0px;">
-  <li style="margin:0 0 5px; margin-left: -10px"><strong>[] </strong>  </li>  
-</ul>
-
-<h4 style="margin:0 10px 0;">2023年5月</h4>
-<ul style="margin:0 10px 0px;">
-  <li style="margin:0 0 5px; margin-left: -10px"><strong>[] </strong>  </li>  
-</ul>
-
-<h4 style="margin:0 10px 0;">2023年6月27日</h4>
-<ul style="margin:0 10px 0px;">
-  <li style="margin:0 0 5px; margin-left: -10px"><strong>[] </strong>  </li>  
-</ul>
-
-<h4 style="margin:0 10px 0;">2023年7月</h4>
-<ul style="margin:0 10px 0px;">
-  <li style="margin:0 0 5px; margin-left: -10px"><strong>[] </strong>  </li>  
-</ul>
-
-
-
