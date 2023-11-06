@@ -10,25 +10,25 @@ main:
     image: ./assets/files/202201.png
     notes: 30人+
 
-  - title: Markdown 的推介与个人应用分享
-    authors: 山东财经大学龙山荣誉学院 100 余名本科生
-    conference_short: Markdown
-    conference: 2022年4月
-    abstract: 
-    pdf: ./assets/files/初虹_202204_Markdown.pdf 
-    web: 
-    image: ./assets/files/202204.png
-    notes: 100人+
+  # - title: Markdown 的推介与个人应用分享
+  #   authors: 山东财经大学龙山荣誉学院 100 余名本科生
+  #   conference_short: Markdown
+  #   conference: 2022年4月
+  #   abstract: 
+  #   pdf: ./assets/files/初虹_202204_Markdown.pdf 
+  #   web: 
+  #   image: ./assets/files/202204.png
+  #   notes: 100人+
 
-  - title: 经管数据库与 Stata 数据清洗、双重差分法、动态面板模型
-    authors: 山东财经大学财政税务学院20余名本硕衔接生
-    conference_short: 
-    conference: 2022年6月 - 2022年7月
-    abstract: 分享四次课：Stata 基本操作（2022.05.21）、常见经管微观数据库与微观数据库清洗（）、动态面板模型与广义矩估计（）、潜在结果框架与双重差分法（）
-    pdf: 
-    web: 
-    image: ./assets/files/
-    notes: 
+  # - title: 经管数据库与 Stata 数据清洗、双重差分法、动态面板模型
+  #   authors: 山东财经大学财政税务学院20余名本硕衔接生
+  #   conference_short: 
+  #   conference: 2022年6月 - 2022年7月
+  #   abstract: Stata 基本操作（2022.05.21）、常见经管微观数据库与微观数据库清洗（2023.06.26）、动态面板模型与广义矩估计（2022.07.19）、潜在结果框架与双重差分法（2022.07.30）
+  #   pdf: 
+  #   web: 
+  #   image: ./assets/files/
+  #   notes: 
 
   # - title: 
   #   authors: 
