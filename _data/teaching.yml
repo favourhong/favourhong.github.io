@@ -4,21 +4,21 @@ main:
     authors: 
     conference_short: Markdown & Zotero
     conference: 
-    abstract: 2022年1月：山东财经大学 YEP 团队部分成员（<i>30人+<i>）<br>2022年4月：山东财经大学龙山荣誉学院本科生（<i>100人+</i>）<br><strong style="color:#e74d3c; border:1px solid #757575; padding: 3px;font-size: 0.9rem; margin-right: 5px; border-radius:4px; ">线上</strong>
+    abstract: 2022年1月：山东财经大学 YEP 团队部分成员（<i>30人+</i>）<br>2022年4月：山东财经大学龙山荣誉学院本科生（<i>100人+</i>）
     pdf: ./assets/files/初虹_202201_Markdown_Zotero.pdf
     web: 
     image: ./assets/files/Markdown&Zotero.gif
-    notes: 
+    notes: <strong style="color:#e74d3c; border:1px solid; padding: 3px; font-size: 0.9rem; margin-right: 5px; border-radius:4px; ">线上</strong>
 
-  - title: 2022 年师门内部本硕衔接培训
-    authors: 
+  - title: 2022 年师门内部”本硕衔接“培训
+    authors: 20余名本硕衔接生
     conference_short: 
     conference: 2022年5月 - 2022年7月
-    abstract: 2022年5月21日：Stata 基本操作<br>2022年6月26日：常见经管微观数据库与微观数据库清洗<br>2022年7月19日：动态面板模型与广义矩估计<br>2022年7月30日：潜在结果框架与双重差分法 <br><strong style="color:#e74d3c; border:1px solid #757575; padding: 3px;font-size: 0.9rem; margin-right: 5px; border-radius:4px; ">线下</strong>
+    abstract: 2022年5月21日：Stata 基本操作<br>2022年6月26日：常见经管微观数据库与微观数据库清洗<br>2022年7月19日：动态面板模型与广义矩估计<br>2022年7月30日：潜在结果框架与双重差分法
     pdf: 
     web: 
     image: ./assets/files/2022年本硕衔接.png
-    notes: 20余名本硕衔接生
+    notes: <strong style="color:#e74d3c; border:1px solid #757575; padding: 3px;font-size: 0.9rem; margin-right: 5px; border-radius:4px; ">线下</strong>
 
   - title: 2023年 师门内部在校生培训
     authors: 
@@ -30,7 +30,7 @@ main:
     image: ./assets/files/
     notes: 
 
-  - title: 2023 年师门内部本硕衔接培训
+  - title: 2023 年师门内部”本硕衔接“培训
     authors: 
     conference_short: 
     conference: 
