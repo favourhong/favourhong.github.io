@@ -4,6 +4,9 @@ main:
     url: ./#contact 
     right: true 
 
+  - title: "Projects"
+    url: ./#projects
+
   - title: "Teaching"
     url: ./#teaching
 
@@ -12,9 +15,6 @@ main:
 
   - title: "Publications & WP"
     url: ./#publications
-
-  - title: "Projects"
-    url: ./#projects
 
   - title: "Blogs"
     url: ./#blogs

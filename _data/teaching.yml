@@ -14,7 +14,7 @@ main:
     authors:
     conference_short: Stata & DID & GMM
     conference: 
-    abstract: 2022年5月21日：Stata 基本操作<br>2022年6月26日：常见经管微观数据库与微观数据库清洗<br>2022年7月19日：动态面板模型与广义矩估计<br>2022年7月30日：潜在结果框架与双重差分法
+    abstract: 2022年5月21日：Stata 基本操作（<p style="color:#e74d3c">2h</p>）<br>2022年6月26日：常见经管微观数据库与微观数据库清洗<br>2022年7月19日：动态面板模型与广义矩估计<br>2022年7月30日：潜在结果框架与双重差分法
     pdf: 
     web: 
     image: ./assets/files/2022年本硕衔接.png
