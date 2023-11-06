@@ -23,9 +23,9 @@ main:
   - title: 2023年师门内部在校生培训
     authors: 10余名在校生
     conference_short: 
-    conference: 2023年2月 - 2023年3月、2023年6月 - 2023年7月
-    abstract: 
-    pdf: ./assets/files/
+    conference: 2023年2月 - 2023年3月、2023年5月
+    abstract: 2023年2月26日：地级市数据库（EPS、CSMAR、CNRDS、统计年鉴、CEIC）的清洗与对接<br>2023年2月27日：上市公司数据库（CSMAR）的清洗对接（CSMAR API）与期刊论文复刻（谢申祥等，2022，《南开经济研究》）<br>2023年3月2日：经管实证分析基本范式（稳健性、内生性与可逆性分析）<br>2023年3月3日：双重差分法基本原理与Stata应用（Rubin潜在结果框架、DID基本原理与假设、DID分类、Standard DID与TWFE）<br>双重差分法基本范式（事件研究法、安慰剂检验、前定控制变量与时间趋势项、Staggered DID的异质性偏误）
+    pdf: 
     web: 
     image: ./assets/files/
     notes: 
@@ -33,9 +33,9 @@ main:
   - title: 2023 年师门内部”本硕衔接“培训
     authors: 
     conference_short: 
-    conference: 
+    conference: 2023年6月 - 2023年7月
     abstract: 
-    pdf: ./assets/files/
+    pdf: 
     web: 
     image: ./assets/files/
     notes: 
