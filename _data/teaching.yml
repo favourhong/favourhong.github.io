@@ -34,7 +34,7 @@ main:
     authors: 
     conference_short: 地级市数据清洗 & DID
     conference: 
-    abstract: 2023年5月14日：地级市宏观数据清洗与对接 [<strong style="color:#e74d3c">2.5 hours</strong>]<br>2023年5月28日：上市公司期刊论文复刻<br>2023年7月15日：双重差分法基本原理与Stata应用 [<strong style="color:#e74d3c">2.5 h</strong>]<br>2023年7月29日：双重差分法基本范式<br> [<strong style="color:#e74d3c">2.5 hours</strong>]
+    abstract: 2023年5月14日：地级市宏观数据清洗与对接 [<strong style="color:#e74d3c">2.5 hours</strong>]<br>2023年5月28日：上市公司期刊论文复刻<br>2023年7月15日：双重差分法基本原理与Stata应用 [<strong style="color:#e74d3c">2.5 h</strong>]<br>2023年7月29日：双重差分法基本范式 [<strong style="color:#e74d3c">2.5 hours</strong>]<br>
     pdf: 
     web: 
     image: ./assets/files/202305.png
