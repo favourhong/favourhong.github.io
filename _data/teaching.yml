@@ -1,14 +1,23 @@
 main:
 
-  - title: Markdown 和 Zotero 的推介与个人应用分享
-    authors: 山东财经大学YEP团队部分成员
-    conference_short: Markdown & Zotero
-    conference: 2022年1月
-    abstract: 
-    pdf: ./assets/files/初虹_202201_Markdown_Zotero.pdf
-    web: 
-    image: ./assets/files/202201.png
-    notes: 30人+
+  - title: Reversible and Non-volatile Magneto-ionic effect in W-CoFeB-MgO-HfO2 ultra-thin films with Perpendicular Anisotropy
+    authors: Song Chen, Elmer Monteblanco, Rohit Pachat, Liza Herrera Diez, Dafiné Ravelosona
+    conference_short: JEMS
+    conference: 13th Joint European Magnetic Symposia
+    pdf: ./assets/files/JEMS2023_Song.pdf
+    web: https://www.jems2023.es/
+    image: ./assets/files/JEMS2023_2.jpg
+    notes: Accepted
+
+  # - title: Markdown 和 Zotero 的推介与个人应用分享
+  #   authors: 山东财经大学YEP团队部分成员
+  #   conference_short: Markdown & Zotero
+  #   conference: 2022年1月
+  #   abstract: 
+  #   pdf: ./assets/files/初虹_202201_Markdown_Zotero.pdf
+  #   web: 
+  #   image: ./assets/files/202201.png
+  #   notes: 30人+
 
   # - title: Markdown 的推介与个人应用分享
   #   authors: 山东财经大学龙山荣誉学院 100 余名本科生
