@@ -12,16 +12,16 @@ main:
 
   - title: 2022 年师门内部”本硕衔接“培训
     authors: 20余名本硕衔接生
-    conference_short: 
+    conference_short: Stata基本操作 & DID & GMM
     conference: 2022年5月 - 2022年7月
     abstract: 2022年5月21日：Stata 基本操作<br>2022年6月26日：常见经管微观数据库与微观数据库清洗<br>2022年7月19日：动态面板模型与广义矩估计<br>2022年7月30日：潜在结果框架与双重差分法
     pdf: 
     web: 
     image: ./assets/files/2022年本硕衔接.png
-    notes: <strong style="color:#e74d3c; border:1px solid #757575; padding: 3px;font-size: 0.9rem; margin-right: 5px; border-radius:4px; ">线下</strong>
+    notes: 线下
 
   - title: 2023年 师门内部在校生培训
-    authors: 
+    authors: 10余名在校生
     conference_short: 
     conference: 
     abstract: 
