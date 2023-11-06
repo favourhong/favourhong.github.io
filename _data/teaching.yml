@@ -11,41 +11,41 @@ main:
     notes: 线上
 
   - title: 2022 年师门内部”本硕衔接“培训
-    authors: 20余名本硕衔接生
-    conference_short: Stata 基本操作 & DID & GMM
-    conference: 2022年5月 - 2022年7月
+    authors:
+    conference_short: Stata & DID & GMM
+    conference: 
     abstract: 2022年5月21日：Stata 基本操作<br>2022年6月26日：常见经管微观数据库与微观数据库清洗<br>2022年7月19日：动态面板模型与广义矩估计<br>2022年7月30日：潜在结果框架与双重差分法
     pdf: 
     web: 
     image: ./assets/files/2022年本硕衔接.png
-    notes: 线下
+    notes: 线下（20人+）
 
   - title: 2023年师门内部在校生培训
-    authors: 10余名在校生
-    conference_short: 经管数据清洗与基本研究范式 & DID
-    conference: 2023年2月 - 2023年3月
+    authors: 
+    conference_short: 数据清洗与实证研究范式
+    conference: 
     abstract: 2023年2月26日：地级市宏观数据库（EPS、CSMAR、CNRDS、统计年鉴、CEIC）的清洗与对接<br>2023年2月27日：上市公司数据库（CSMAR）的清洗对接（CSMAR API）与期刊论文复刻（谢申祥等，2022，《南开经济研究》）<br>2023年3月2日：经管实证分析基本范式（稳健性分析、内生性检验、敏感性分析与可逆性分析）<br>2023年3月3日：双重差分法基本原理与Stata应用（Rubin潜在结果框架、DID基本原理与假设、DID分类、Standard DID与TWFE）<br>双重差分法基本范式（事件研究法、安慰剂检验、前定控制变量与时间趋势项、Staggered DID的异质性偏误）
     pdf: 
     web: 
     image: ./assets/files/202302.png
-    notes: 线下
+    notes: 线下（8人）
 
   - title: 2023 年师门内部”本硕衔接“培训
     authors: 
     conference_short: 地级市数据清洗 & DID
-    conference: 2023年5月 - 2023年7月
+    conference: 
     abstract: 2023年5月14日：地级市宏观数据清洗与对接<br>2023年5月28日：上市公司期刊论文复刻<br>2023年7月15日：双重差分法基本原理与Stata应用<br>2023年7月29日：双重差分法基本范式<br>
     pdf: 
     web: 
     image: ./assets/files/202305.png
-    notes: 线下
+    notes: 线下（10人+）
 
   - title: 连享会2023年暑期公开课讲座：Stata 实战之地级市宏观数据和上市公司数据的清洗与合并
-    authors: 初虹
+    authors: 
     conference_short: Stata 数据清洗
     conference: 2023年6月27日
-    abstract: 受中山大学[连玉君](https://lingnan.sysu.edu.cn/faculty/LianYujun)老师邀请，于2023年6月27日在[连享会](https://www.lianxh.cn)平台进行以「Stata 清洗三大地级市宏观数据库和 CSMAR 上市公司数据库」为主题的公开课直播，共吸引 1400 余名老师和同学们参与
+    abstract: 受中山大学连玉君老师邀请，于2023年6月27日在连享会平台进行以「Stata 清洗三大地级市宏观数据库和 CSMAR 上市公司数据库」为主题的公开课直播，共吸引 1400 余名老师和同学们参与
     pdf: ./assets/files/20230627_初虹_连享会公开课.pdf
     web: https://www.lianxh.cn/details/1226.html
     image: ./assets/files/20230627.png
-    notes: 网络直播，共计1400余名同学参与
+    notes: 网络直播（1400人+）
