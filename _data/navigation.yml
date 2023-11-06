@@ -4,14 +4,17 @@ main:
     url: ./#contact 
     right: true 
 
-  - title: "Projects"
-    url: ./#projects
+  - title: "Teaching"
+    url: ./#teaching
 
-  - title: "Talks & TA"
+  - title: "Talks"
     url: ./#talks
 
   - title: "Publications & WP"
     url: ./#publications
+
+  - title: "Projects"
+    url: ./#projects
 
   - title: "Blogs"
     url: ./#blogs
