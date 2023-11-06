@@ -24,7 +24,7 @@ main:
     authors: 
     conference_short: 数据清洗与实证研究范式
     conference: 
-    abstract: 2023年2月26日：地级市宏观数据库（EPS、CSMAR、CNRDS、统计年鉴、CEIC）的清洗与对接 [<strong style="color:#e74d3c">2.5 hours</strong>]<br>2023年2月27日：上市公司数据库（CSMAR）的清洗对接与期刊论文复刻 [<strong style="color:#e74d3c">2.5 hours</strong>]<br>2023年3月2日：经管实证分析基本范式（稳健性分析、内生性检验、敏感性分析与可逆性分析） [<strong style="color:#e74d3c">2.5 hours</strong>]<br>2023年3月3日：双重差分法基本原理与Stata应用（潜在结果框架、DID原理与假设、Standard DID与TWFE） [<strong style="color:#e74d3c">2.5 hours</strong>]<br>2023年3月4日：双重差分法基本范式（事件研究法、安慰剂检验、前定控制变量与时间趋势项、Staggered DID的“负权重”问题与异质性偏误） [<strong style="color:#e74d3c">2.5 hours</strong>]
+    abstract: 2023年2月26日：地级市宏观数据库（EPS、CSMAR、CNRDS、统计年鉴、CEIC）的清洗与对接 [<strong style="color:#e74d3c">2.5 hours</strong>]<br>2023年2月27日：上市公司数据库（CSMAR）的清洗对接与期刊论文复刻 [<strong style="color:#e74d3c">2.5 hours</strong>]<br>2023年3月2日：经管实证分析基本范式（稳健性分析、内生性检验、敏感性分析与可逆性分析） [<strong style="color:#e74d3c">2.5 hours</strong>]<br>2023年3月3日：双重差分法基本原理与Stata应用（潜在结果框架、DID原理与假设、Standard DID与TWFE） [<strong style="color:#e74d3c">2.5 h</strong>]<br>2023年3月4日：双重差分法基本范式（事件研究法、安慰剂检验、前定控制变量与时间趋势项、Staggered DID的“负权重”问题与异质性偏误） [<strong style="color:#e74d3c">2.5 hours</strong>]
     pdf: 
     web: 
     image: ./assets/files/202302.png
