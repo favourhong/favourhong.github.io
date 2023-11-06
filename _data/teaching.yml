@@ -10,7 +10,7 @@ main:
     image: ./assets/files/Markdown&Zotero.gif
     notes: 线上
 
-  - title: 2022 年师门内部”本硕衔接“培训
+  - title: 2022 年师门内部“本硕衔接”培训
     authors:
     conference_short: Stata & DID & GMM
     conference: 
@@ -30,7 +30,7 @@ main:
     image: ./assets/files/202302.png
     notes: 线下（8人）
 
-  - title: 2023 年师门内部”本硕衔接“培训
+  - title: 2023 年师门内部“本硕衔接”培训
     authors: 
     conference_short: 地级市数据清洗 & DID
     conference: 
