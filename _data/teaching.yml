@@ -8,7 +8,7 @@ main:
     pdf: ./assets/files/初虹_202201_Markdown_Zotero.pdf
     web: 
     image: ./assets/files/Markdown&Zotero.gif
-    notes: <strong style="color:#e74d3c; border:1px solid; padding: 3px; font-size: 0.9rem; margin-right: 5px; border-radius:4px; ">线上</strong>
+    notes: 线上
 
   - title: 2022 年师门内部”本硕衔接“培训
     authors: 20余名本硕衔接生
@@ -28,7 +28,7 @@ main:
     pdf: 
     web: 
     image: ./assets/files/202302.png
-    notes: 
+    notes: 线下
 
   - title: 2023 年师门内部”本硕衔接“培训
     authors: 
@@ -38,5 +38,15 @@ main:
     pdf: 
     web: 
     image: ./assets/files/202305.png
-    notes: 
+    notes: 线下
 
+  - title: [连享会](https://www.lianxh.cn)2023年暑期公开课讲座：Stata 实战之地级市宏观数据和上市公司数据的清洗与合并
+    authors: 初虹
+    conference_short: Stata 数据清洗
+    conference: 2023年6月27日
+    abstract: 受中山大学[连玉君](https://lingnan.sysu.edu.cn/faculty/LianYujun)老师邀请，于2023年6月27日在连享会平台进行以「Stata 清洗三大地级市宏观数据库
+和 CSMAR 上市公司数据库」为主题的公开课直播，共吸引 1400 余名老师和同学们参与。
+    pdf: ./assets/files/20230627_初虹_连享会公开课.pdf
+    web: https://www.lianxh.cn/details/1226.html
+    image: ./assets/files/20230627.png
+    notes: 网络直播，共计1400余名同学参与
