@@ -28,8 +28,9 @@ layout: homepage
 </ul>
 
 
-
 {% include_relative _includes/blogs.md %}
+
+{% include_relative _includes/projects.md %}
 
 {% include_relative _includes/publications.md %}
 
@@ -37,6 +38,6 @@ layout: homepage
 
 {% include_relative _includes/talks.md %}
 
-{% include_relative _includes/projects.md %}
+{% include_relative _includes/teaching.md %}
 
 {% include_relative _includes/contact.md %}
