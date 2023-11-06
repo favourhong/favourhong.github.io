@@ -40,7 +40,7 @@ main:
     image: ./assets/files/202305.png
     notes: 线下
 
-  - title: [连享会](https://www.lianxh.cn)2023年暑期公开课讲座：Stata 实战之地级市宏观数据和上市公司数据的清洗与合并
+  - title: 连享会2023年暑期公开课讲座：Stata 实战之地级市宏观数据和上市公司数据的清洗与合并
     authors: 初虹
     conference_short: Stata 数据清洗
     conference: 2023年6月27日
