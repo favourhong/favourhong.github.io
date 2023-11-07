@@ -96,7 +96,7 @@
       <header>
         
         {% if site.avatar %}
-        <a class="image avatar" style="width: 200px; height: 200px; border-radius: 50%; box-shadow: none;"><img src="{{ site.avatar }}" alt="avatar" /></a>
+        <a class="image avatar" style="width: 180px; height: 180px; border-radius: 50%; box-shadow: none;"><img src="{{ site.avatar }}" alt="avatar" /></a>
         {% endif %}
 
         <h1>{{ site.title }}</h1>
@@ -153,6 +153,12 @@
           <i class="fab fa-researchgate"></i>
         </a>
         {% endif %}
+        
+        {% if site.orcid %}
+        <a style="margin: 0 5px 0 0" href="{{ site.orcid }}">
+          <i class="fab fa-orcid"></i>
+        </a>
+        {% endif %}
 
         {% if site.linkedin %}
         <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}">
@@ -160,7 +166,7 @@
         </a>
         {% endif %}
 
-        {% if site.mail %}
+        <!-- {% if site.mail %}
         <a style="margin: 0 5px 0 0" href="{{ site.mail }}">
           <i class="fab fa-envelope"></i>
         </a>
@@ -176,7 +182,7 @@
         <a style="margin: 0 5px 0 0" href="{{ site.phone }}">
           <i class="fal fa-phone-square"></i>
         </a>
-        {% endif %}      
+        {% endif %}       -->
 
         {% if site.twitter %}
         <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
