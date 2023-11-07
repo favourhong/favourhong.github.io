@@ -27,12 +27,12 @@ google_scholar:
 cv_link: 
 linkedin: 
 twitter: 
-researchgate: 
+github_link: https://github.com/favourhong
+researchgate: https://kns.cnki.net/kcms2/author/detail?v=2F6201taHdfvLHhfi8emWUlxdJfsJh4D-q-suM5ho8F1i0sUwAgLH-8W1yB1k76jz7d_DzbsJSNYoEbTvjz3ti4SKF3Yr4U1Gu4i7rStwDxuGCVP9RcHxg==&uniplatform=NZKPT&language=CHS
 orcid: https://orcid.org/my-orcid?orcid=0009-0005-6165-7799
 # mail: chuhong@mail.sdufe.edu.cn
 # wechat: favourhong_sdufe 
 # phone: (+86)17860510667
-github_link: https://github.com/favourhong
 
 # Images 
 avatar: ./assets/img/avatar-small.png

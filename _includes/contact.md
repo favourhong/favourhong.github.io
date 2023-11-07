@@ -6,6 +6,6 @@
 <br />
 <strong>Email：</strong> <email>chuhong@mail.sdufe.edu.cn</email>
 <br />
-<strong><i class="fal fa-phone-square"></i>电话：</strong>(+86) 17860510667
+<strong>电话：</strong>(+86) 17860510667
 <br />
 <strong>个人公众号：</strong>虹鹄山庄 </p>
