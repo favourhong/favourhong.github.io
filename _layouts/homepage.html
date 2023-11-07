@@ -96,7 +96,7 @@
       <header>
         
         {% if site.avatar %}
-        <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
+        <a class="image avatar" style="width: 200px; height: 200px; border-radius: 50%; box-shadow: none;"><img src="{{ site.avatar }}" alt="avatar" /></a>
         {% endif %}
 
         <h1>{{ site.title }}</h1>
@@ -160,11 +160,30 @@
         </a>
         {% endif %}
 
+        {% if site.mail %}
+        <a style="margin: 0 5px 0 0" href="{{ site.mail }}">
+          <i class="fal fa-envelope"></i>
+        </a>
+        {% endif %}      
+
+        {% if site.wechat %}
+        <a style="margin: 0 5px 0 0" href="{{ site.wechat }}">
+          <i class="fal fa-comments"></i>
+        </a>
+        {% endif %}      
+
+        {% if site.phone %}
+        <a style="margin: 0 5px 0 0" href="{{ site.phone }}">
+          <i class="fal fa-phone-square"></i>
+        </a>
+        {% endif %}      
+
         {% if site.twitter %}
         <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
           <i class="fab fa-x-twitter"></i>
         </a>
         {% endif %}
+
         </div>
         <br>
 
