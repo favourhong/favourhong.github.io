@@ -6,7 +6,7 @@ main:
     conference: 经济研究
     pdf: 
     page: 
-    image: 
+    image: ./assets/files/谢申祥2024.png
     notes: Published
 
   - title: 企业涉房投资与员工薪酬差距

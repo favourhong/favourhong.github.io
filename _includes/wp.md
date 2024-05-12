@@ -9,7 +9,7 @@
 </ul> 
 
 
-<h4 style="margin:0 10px 0;">数字基础设施建设如何影响迁移意愿——基于租购同权的视角</h4>
+<h4 style="margin:0 10px 0;">租购同权如何影响迁移意愿？——基于数字基础设施建设的证据</h4>
 <ul style="margin:0 0 5px;">
   <li>初虹，刘金东, 陶然, 王洁怡 <strong style="color:#e74d3c; font-size: 0.95rem;">《财经研究》初审</strong></li>
 </ul> 
