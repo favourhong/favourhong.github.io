@@ -1,5 +1,14 @@
 main:
 
+  - title:  地方公共债务与企业不动产投资：效应与机制
+    authors: 谢申祥, 初虹, 刘金东
+    conference_short: 经济研究
+    conference: 经济研究
+    pdf: 
+    page: 
+    image: 
+    notes: Published
+
   - title: 企业涉房投资与员工薪酬差距
     authors: 谢申祥, 初虹, 刘金东
     conference_short: 南开经济研究
@@ -28,14 +37,7 @@ main:
   #   image: ./assets/files/Jia2023.png
   #   notes: Published
 
-  # - title:  地方公共债务与企业不动产投资：效应与机制
-  #   authors: 谢申祥, 刘金东, 初虹
-  #   conference_short: 《经济研究》R&R
-  #   conference: 
-  #   pdf: 
-  #   page: 
-  #   image: 
-  #   notes: Working Paper
+
 
   # - title:  数字基础设施建设的均等化与资本化效应——来自国家智慧城市试点的证据
   #   authors: 刘金东, 初虹, 李启航
