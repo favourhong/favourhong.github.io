@@ -5,7 +5,7 @@
 
 <h4 style="margin:0 10px 0;">数字基础设施建设的均等化与资本化效应——来自国家智慧城市试点的证据</h4>
 <ul style="margin:0 0 5px;">
-  <li>刘金东, 初虹, 李启航 <strong style="color:#e74d3c; font-size: 0.95rem;">《南开经济研究》终审</strong></li>
+  <li>刘金东, 初虹, 李启航 <strong style="color:#e74d3c; font-size: 0.95rem;">《南开经济研究》2024年第8期</strong></li>
 </ul> 
 
 

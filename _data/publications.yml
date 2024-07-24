@@ -4,8 +4,8 @@ main:
     authors: 谢申祥, 初虹, 刘金东
     conference_short: 经济研究
     conference: 经济研究
-    pdf: 
-    page: 
+    pdf: ./assets/files/谢申祥2024.pdf
+    page: https://kns.cnki.net/kcms2/article/abstract?v=U4tcjD9WU1EdCh_jxsaYJ9jKMCpmAUz089yAoXZqLQYgfGL-pdD1ANFdHQ9QLsITL3ECTQfOkJ9u9T4dLBwsfXcq7NIfBhFQnI2cic5bL6OoL-St_xMdMw==&uniplatform=NZKPT&language=gb
     image: ./assets/files/谢申祥2024.png
     notes: Published
 

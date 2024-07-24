@@ -62,12 +62,12 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://github.com/favourhong/Awesome-Marp">Awesome Marp</a></div>
       <div class="author"></div>
-      <div class="periodical" style="text-align: justify;">一整套 Marp 主题，Marp 是用 Markdown 语法来渲染创作 PPT 的工具，可以在<a href="https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode"> VS Code </a>和<a href="https://obsidian.md/"> Obsidian </a>中使用。目前 v1.2 版本提供了 6 种颜色（dark、blue、green、red、yellow、brown）和 30 种自定义样式，包括 6 种页面分栏、4 种非嵌套列表的分栏、类似 Beamer 的进度导航栏、5 种类型的封面页、3 种类型的目录页和 5 种 Callouts 引用框等。</div>
+      <div class="periodical" style="text-align: justify;">一整套 Marp 主题，Marp 是用 Markdown 语法来渲染创作 PPT 的工具，可以在<a href="https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode"> VS Code </a>和<a href="https://obsidian.md/"> Obsidian </a>中使用。目前 v1.3 版本提供了 6 种颜色（dark、blue、green、red、yellow、brown）和 38 种自定义样式，包括 6 种页面分栏、4 种非嵌套列表的分栏、类似 Beamer 的进度导航栏、5 种类型的封面页、3 种类型的目录页和 5 种 Callouts 引用框等。</div>
     <div class="links">
       <!-- <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
       <!-- <a href="https://github.com/yaoyao-liu/meta-transfer-learning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
       <a href="https://github.com/favourhong/Awesome-Marp" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <strong><i style="color:#e74d3c">Open Source (356 GitHub Stars)</i></strong>
+      <strong><i style="color:#e74d3c">Open Source (419 GitHub Stars)</i></strong>
     </div>
   </div>
 </div>
