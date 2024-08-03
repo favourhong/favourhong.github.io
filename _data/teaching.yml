@@ -55,7 +55,7 @@ main:
     conference_short: Markdown 助力学术研究
     conference: 2024年8月1日
     abstract: 受中山大学连玉君老师邀请，于2024年8月1日在连享会平台进行以「让记录变得简单：Markdown使用详解」为主题的公开课直播，共吸引千余名老师和同学们参与。
-    pdf: ./assets/files/20240801_初虹_Markdown.pdf
+    html: ./assets/files/20240801_初虹_Markdown.html
     web: https://www.lianxh.cn/details/1435.html
     image: ./assets/files/20240801.png
     notes: 网络直播（1500人+, 1.5 hours）
