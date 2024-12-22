@@ -1,5 +1,15 @@
 main:
 
+
+  - title:  地方政府债务与企业商业信用——基于供应链风险溢出的视角
+    authors: 刘金东, 徐军伟, 初虹, 王洁怡
+    conference_short: 中国工业经济
+    conference: 中国工业经济
+    pdf: ./assets/files/刘金东2024.pdf
+    page: 
+    image: ./assets/files/刘金东2024.png
+    notes: Published
+
   - title:  地方公共债务与企业不动产投资：效应与机制
     authors: 谢申祥, 初虹, 刘金东
     conference_short: 经济研究
@@ -7,6 +17,15 @@ main:
     pdf: ./assets/files/谢申祥2024.pdf
     page: https://kns.cnki.net/kcms2/article/abstract?v=U4tcjD9WU1EdCh_jxsaYJ9jKMCpmAUz089yAoXZqLQYgfGL-pdD1ANFdHQ9QLsITL3ECTQfOkJ9u9T4dLBwsfXcq7NIfBhFQnI2cic5bL6OoL-St_xMdMw==&uniplatform=NZKPT&language=gb
     image: ./assets/files/谢申祥2024.png
+    notes: Published
+
+  - title:  数字基础设施建设的均等化与资本化效应——来自国家智慧城市试点的证据
+    authors: 刘金东, 初虹, 李启航
+    conference_short: 南开经济研究
+    conference: 南开经济研究
+    pdf: ./assets/files/刘金东2024南开.pdf
+    page: https://kns.cnki.net/kcms2/article/abstract?v=oGsGy-nFbJRpNA03fGNoLllAIKILN9oAKI2HB7cFzAYhbYM8QticE0bbxJzcURY9FDu0o9mb4lvyQurzMI79WeuwtzN2Tyhg6nwdwwXPD28Rng5FhWa4hctXALNPF__eXzhQnam7wfpWun4il9OlWf2eKe77B_p04T8CkJ2wiTU7VnFWAl544vL9ZYIaqjsp&uniplatform=NZKPT&language=CHS
+    image: ./assets/files/刘金东2024南开.png
     notes: Published
 
   - title: 企业涉房投资与员工薪酬差距

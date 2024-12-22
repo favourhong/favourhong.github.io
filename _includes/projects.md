@@ -67,7 +67,7 @@
       <!-- <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
       <!-- <a href="https://github.com/yaoyao-liu/meta-transfer-learning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
       <a href="https://github.com/favourhong/Awesome-Marp" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <strong><i style="color:#e74d3c">Open Source (428 GitHub Stars)</i></strong>
+      <strong><i style="color:#e74d3c">Open Source (560 GitHub Stars)</i></strong>
     </div>
   </div>
 </div>

@@ -4,7 +4,6 @@
 
 <ul>
 
-
 <li><strong>[Stata 数据清洗] </strong><a href="https://mp.weixin.qq.com/s/D0cYVPJJsNiu61GcYwV6cg">经管数据清洗与 Stata 实战：三大地级市数据库和 CSMAR 上市公司数据</a>、<a href="https://www.lianxh.cn/details/889.html">清洗中国城市建设统计年鉴</a>、<a href="https://www.lianxh.cn/details/923.html">一文搞定 CEIC 数据库</a></li>
 
 <li><strong>[Stata 绘图] </strong><a href="https://www.xiaohongshu.com/explore/631481cf0000000012016207?app_platform=android&app_version=8.9.0&ignoreEngage=true&share_from_user_hidden=true&type=normal&xhsshare=WeixinSession&appuid=5df0648d000000000100bd79&apptime=1698844733">黑白风格图形模板</a>、<a href="https://www.xiaohongshu.com/explore/631027090000000012009870?app_platform=android&app_version=8.9.0&ignoreEngage=true&share_from_user_hidden=true&type=normal&xhsshare=WeixinSession&appuid=5df0648d000000000100bd79&apptime=1698844757">《经济学人》风格图形模板</a>、<a href="https://www.xiaohongshu.com/explore/630f0e4e000000000900d06d?app_platform=android&app_version=8.9.0&ignoreEngage=true&share_from_user_hidden=true&type=normal&xhsshare=WeixinSession&appuid=5df0648d000000000100bd79&apptime=1698844749">Stata 绘图选项大全</a></li>
@@ -17,7 +16,7 @@
 
 <li><strong>[软件工具] </strong><a href="https://sspai.com/post/65933">Windows 系统缺失的包管理器：Chocolatey、WinGet 和 Scoop</a></li>
 <li><strong>[软件工具] </strong><a href="https://sspai.com/post/65716">图床搭配 PicGo：打造高效的图片处理工作流</a></li>
-<li><strong>[软件工具] </strong>学术论文写作新武器：Markdown<a href="https://www.lianxh.cn/details/603.html">（上）、</a><a href="https://www.lianxh.cn/details/605.html">（中）</a>、<a href="https://www.lianxh.cn/details/604.html">（下）</a></li>
+<li><strong>[软件工具] </strong>学术论文写作新武器：Markdown<a href="https://www.lianxh.cn/details/603.html">（上）、</a><a href="https://www.lianxh.cn/details/605.html">（中）</a>、<a href="https://www.lianxh.cn/details/604.html">（下）</a>、<a href="https://mp.weixin.qq.com/s/YMbT8csOxMA-1CQ6vZqfqw">让「记录」变得简单：Markdown 使用详解</a></li>
 <li><strong>[软件工具] </strong><a href="https://www.lianxh.cn/details/1004.html">经管人的 VS Code 配置大全</a></li>
 <li><strong>[软件工具] </strong><a href="https://mp.weixin.qq.com/s/vdiLVud5jSJfw1ts2Mt-6w">Zotero：如何定制参考文献样式 —— 以《世界经济》中文期刊为例</a></li>
 
